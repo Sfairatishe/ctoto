@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+
+.darkGreen{
+  height: 100vh;
+  background-color: #9caa58;
+}
+.lightGreen{
+  height: 100vh;
+  background-color: #cfcd33;
+}
+
+.bej{
+  height: 100vh;
+  background-color: #f9c37a;
+}
+
+.brown{
+  height: 100vh;
+  background-color: #8f4405;
+}
+
+.darkBrown{
+  height: 100vh;
+  background-color: #4c281a;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

@@ -1,0 +1,27 @@
+.baner{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:20vh;
+    
+    background-attachment: fixed;
+    background: center / contain no-repeat;
+    background-color:#afb9ee;
+    margin-top: 10vh;
+}
+
+.switchImageButton{
+    background-color:#ff4081;
+}
+
+.baner span {
+    margin:20vh;
+    color: white;
+    background-color: #afb9ee9d;
+    border-radius: 20px 20px;
+    font-size: xx-large;
+    line-height: 3em;
+    text-shadow: 3px 3px 10px rgb(0, 0, 0) ;
+    font-family:  Helvetica, Arial,  sans-serif ; 
+        
+}

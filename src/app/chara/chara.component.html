@@ -1,0 +1,5 @@
+<div class = "baner" [ngStyle]="{'background-image': 'url(' + bannerImg + ')'}">
+    <button (click)="changeTextToPrevious() "  mat-button class = "switchImageButton"><</button>
+        <span [@myTrigger] = "numberOfTextOption"  [innerHtml]="bannerText" ></span>
+    <button  (click)="changeTextToNext()" mat-button class = "switchImageButton">></button>
+</div>
